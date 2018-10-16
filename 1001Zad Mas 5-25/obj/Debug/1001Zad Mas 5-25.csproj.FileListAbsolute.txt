@@ -1,0 +1,6 @@
+C:\Games\VS 2013\A lot of Projects\1001Zad Mas 5-25\1001Zad Mas 5-25\bin\Debug\1001Zad Mas 5-25.exe.config
+C:\Games\VS 2013\A lot of Projects\1001Zad Mas 5-25\1001Zad Mas 5-25\bin\Debug\1001Zad Mas 5-25.exe
+C:\Games\VS 2013\A lot of Projects\1001Zad Mas 5-25\1001Zad Mas 5-25\bin\Debug\1001Zad Mas 5-25.pdb
+C:\Games\VS 2013\A lot of Projects\1001Zad Mas 5-25\1001Zad Mas 5-25\obj\Debug\1001Zad Mas 5-25.csprojResolveAssemblyReference.cache
+C:\Games\VS 2013\A lot of Projects\1001Zad Mas 5-25\1001Zad Mas 5-25\obj\Debug\1001Zad Mas 5-25.exe
+C:\Games\VS 2013\A lot of Projects\1001Zad Mas 5-25\1001Zad Mas 5-25\obj\Debug\1001Zad Mas 5-25.pdb
