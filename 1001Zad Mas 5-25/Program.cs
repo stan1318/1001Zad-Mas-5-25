@@ -26,19 +26,16 @@ namespace _1001Zad_Mas_5_25
             }
             List<int> lst = mas.OfType<int>().ToList();
            
-            //OddOut(lst);
-            //EvenSquared(lst);
-            OverAverage(lst);
+            OddOut(lst);
+           // EvenSquared(lst);
+           // OverAverage(lst);
            
-            foreach (int num in lst)
-            {
-                Console.WriteLine(num);
-            }
+          
             Console.ReadLine();
 
         }
         static void OddOut(List<int>lst )
-        {
+        {//removes the odd numbers in the array
            
             for (int i = 0; i < lst.Count ; i++)
             {
@@ -57,7 +54,7 @@ namespace _1001Zad_Mas_5_25
 
         }
         static void EvenSquared(List<int>lst)
-        {
+        {//Prints out the array and every even number is squared
             for (int i = 0; i < lst.Count; i++)
             {
                 if (lst[i] % 2 == 0)
@@ -75,7 +72,7 @@ namespace _1001Zad_Mas_5_25
 
         }
         static void OverAverage(List<int>lst)
-        {
+        {//prints the Average of the array and the numbers higher than it
             float sum=0;
             int n=lst.Count;
             for (int i = 0; i < n; i++)
@@ -93,6 +90,10 @@ namespace _1001Zad_Mas_5_25
                 }
             }
             Console.WriteLine("Average is:{0}",avg);
+             foreach (int num in lst)
+             {
+               Console.WriteLine(num);
+             }
         }
     }
 }
